@@ -1,4 +1,4 @@
-## OpenSDS EUAC Meeting Jul 18, 2018 
+## OpenSDS EUAC Meeting Jul 18, 2018
 
 ## Attendees:
 Kei Kusunoki, Yusuke Sato, Steven Tan, Larry Lai
