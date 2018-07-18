@@ -6,12 +6,12 @@ Kei Kusunoki, Yusuke Sato, Steven Tan, Larry Lai
 
 
 ## Agenda
-1.General Updates
-2.Planning
-2.1CloudNative Days Japan
-2.2OpenSDS Mini Summit @ OSS Summit Edinburgh
-3.POC updates
-4.Wrap-up
+1. General Updates
+2. Planning
+   - CloudNative Days Japan
+   - OpenSDS Mini Summit @ OSS Summit Edinburgh
+3. POC updates
+4. Wrap-up
 
 
 
