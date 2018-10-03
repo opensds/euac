@@ -4,23 +4,23 @@
 Cosimo Rosetti, Kei Kusunoki, Guo Jiannan, Liu Junwei, Steven Tan
 
 ## Agenda
-1.	Welcome and Intro - China Mobile
-2.  Updates
-  - OpenSDS Meetup Japan
-  - Meeting with Fujitsu, Intel
-  - MOC Collaboration 
+1. Welcome and Intro - China Mobile
+2. Updates
+   - OpenSDS Meetup Japan
+   - Meeting with Fujitsu, Intel
+   - MOC Collaboration 
 3. Activities Planning
-  - Mini Summit - Nov
-  - OpenSDS Meetup Milan – Nov
-  - OpenSDS Meetup Japan - Dec
+   - Mini Summit - Nov
+   - OpenSDS Meetup Milan – Nov
+   - OpenSDS Meetup Japan - Dec
 4. Aruba POC update
-  - Yahoo, NTT, Toyota, Vodafone, Itau
+   - Yahoo, NTT, Toyota, Vodafone, Itau
 5. Open Discussions and Requests
 
 
 ## Minutes
 1. China Mobile representatives Guo Jiannan and Liu Junwei attended
-  - China Mobile develops infrastructure software in-house, and hopes to help drive the development of OpenSDS 
+   - China Mobile develops infrastructure software in-house, and hopes to help drive the development of OpenSDS 
 2. Updates:
    - First OpenSDS Meetup Japan on Sep 3 a success. 
      - Full-house of ~100 people from service providers, vendors and other end users. 
