@@ -19,7 +19,7 @@ Cosimo Rosetti, Kei Kusunoki, Yusuke Sato, Wim Jacobs, Erik Teunissen, Steven Ta
 
 
 ## Minutes
-1. Cosimo thinks Open Data Fabric is a good concept in general and evaluating it internally 
+1. Vodafone OpenSDS Meeting - Cosimo thinks Open Data Fabric is a good concept in general and evaluating it internally 
 2. SNIA SDC 
    - Reddy and Steven gave a talk on "Managing flash with Swordfish in cloud native" 
    - Met with Swordfish team, will have a co-working session in Colorado Springs end of Oct to discuss collaboration in detail 
@@ -38,4 +38,4 @@ Cosimo Rosetti, Kei Kusunoki, Yusuke Sato, Wim Jacobs, Erik Teunissen, Steven Ta
    - OpenSDS Meetup Japan, Milan, China - discussions postponed due to time
 4. Aruba POC:
    - Yahoo Japan has finished POC. Will work on a POC report presentation for next EUAC meeting
-   
+5. Steven indicated we will have more developers joining the project to work on multi-cloud, automation and orchestration and NVMeoF in the coming releases   
