@@ -10,6 +10,7 @@ The End User Advisory Committee (EUAC) is to assist and support the OpenSDS comm
 * Yusuke Sato (Yahoo Japan)
 * Yuji Yazawa (Toyota)
 * Wim Jacobs (KPN)
+* Shinya Tsunematsu (GMO Pepabo)
 
 
 ## Bi-weekly Meetings
