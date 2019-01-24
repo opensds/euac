@@ -14,10 +14,12 @@ The End User Advisory Committee (EUAC) is to assist and support the OpenSDS comm
 * Terada Mitchitaka (IIJ - Internet Initiative Japan)
 
 
-## Bi-weekly Meetings
-This meeting is hosted on zoom. Join the EUAC mailing list for info on meetings
+## Community Meetings
+There are 3 EUAC meetings - Japan, China and Global.
 
-Zoom Meeting: https://zoom.us/j/477192859
+Global Zoom Meeting: https://zoom.us/j/477192859 (last Wed every month, 5pm PST)
+Japan Zoom Meeting: https://zoom.us/j/672931319 (every 1st and 3rd Tuesday, 3pm China Time)
+China Zoom Meeting: https://zoom.us/j/751476273 (every 1st and 3rd Thursday, 10am JST)
 
 Or iPhone one-tap :
 US: +19294362866,,477192859# or +16699006833,,477192859#
